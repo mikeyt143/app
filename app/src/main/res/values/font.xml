@@ -1,0 +1,16 @@
+<resources>
+    <font-family name="inter">
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="400"
+            android:font="@font/inter_regular"/>
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="500"
+            android:font="@font/inter_medium"/>
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="700"
+            android:font="@font/inter_bold"/>
+    </font-family>
+</resources>
